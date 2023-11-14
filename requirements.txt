@@ -1,0 +1,6 @@
+python==3.11.6
+pandas==
+scipy==
+streamlit==1.28.2
+altair==
+plotly==5.18.0
